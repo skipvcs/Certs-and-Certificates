@@ -3,7 +3,7 @@ A current list of certs &amp; certifcations with associated documents
 
 
 - <b>CompTIA</b>
-  - Security+ ce
+  - Security+ 
 - <b>UT Austin</b>
   - Cybersecurity Immediate Immersion
   - Cybersecurity Defense
