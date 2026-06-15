@@ -1,5 +1,5 @@
 # Certs-and-Certificates
-A current list of certs &amp; certifcations with associated documents
+A current list of certs &amp; certifications with associated documents
 
 
 - <b>CompTIA</b>
